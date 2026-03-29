@@ -49,4 +49,25 @@ L_{phys} = |P - (V \times I)|
 
 ---
 
-## 🏗️ Architecture Overview
+
+---
+
+##  Datasets Used
+
+| Dataset  | Description                  |
+|----------|------------------------------|
+| SMAP     | Satellite telemetry          |
+| MSL      | Mars rover telemetry         |
+| C-MAPSS  | Engine degradation simulation|
+
+- Public NASA datasets  
+- Used for anomaly detection and robustness evaluation  
+
+---
+
+##  Installation
+
+```bash
+git clone https://github.com/avinashpallidlaan/PhysX-TFT.git
+cd PhysX-TFT
+pip install -r requirements.txt
