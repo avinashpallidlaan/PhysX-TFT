@@ -1,10 +1,10 @@
-# 🚀 PhysX-TFT: Physics-Regularised Temporal Fusion Transformer for Spacecraft Telemetry
+# PhysX-TFT: Physics-Regularised Temporal Fusion Transformer for Spacecraft Telemetry
 
 A physics-informed, uncertainty-aware deep learning framework for **anomaly detection and decision support in spacecraft telemetry systems**.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Modern spacecraft generate high-dimensional telemetry data that must be continuously monitored to ensure mission safety. Traditional machine learning and deep learning approaches often lack:
 
@@ -14,10 +14,10 @@ Modern spacecraft generate high-dimensional telemetry data that must be continuo
 
 This project introduces **PhysX-TFT**, a novel framework that integrates:
 
-- ✅ Temporal Fusion Transformer (TFT)  
-- ✅ Physics-Informed Learning  
-- ✅ Uncertainty Quantification (MC Dropout)  
-- ✅ Decision Support System  
+-  Temporal Fusion Transformer (TFT)  
+-  Physics-Informed Learning  
+-  Uncertainty Quantification (MC Dropout)  
+-  Decision Support System  
 
 
 
